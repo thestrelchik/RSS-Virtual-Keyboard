@@ -102,3 +102,9 @@
   .hidden {
     display: none;
   }
+
+  .plang {
+    color: white;
+    text-align: right;
+    margin: 25px;
+  }
